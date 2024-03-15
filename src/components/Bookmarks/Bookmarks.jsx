@@ -9,7 +9,7 @@ const Bookmarks = ({bookmarks, readingTime}) => {
             <div className='bg-[#1111110D] rounded-2xl ml-12 text-center p-5 m-5'>
             <h2 className="text-3xl font-bold text-left">Bookmarked Blogs: {bookmarks.length}</h2>
                 {
-                    bookmarks.map((bookmark)=> <Bookmark key={bookmark.id} bookmark={bookmark}></Bookmark>)
+                    bookmarks.map((bookmark, idx)=> <Bookmark key={idx} bookmark={bookmark}></Bookmark>)
                 }
             </div>
         </div>
