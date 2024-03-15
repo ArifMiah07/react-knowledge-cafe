@@ -1,0 +1,53 @@
+[
+    {
+      "id": 123456,
+      "cover_image": "https://i.ibb.co/NN3kBsR/OIG2-chb-M-W3zo-Rqp-Fy-BTT1re.jpg",
+      "title": "The Enigmatic Garden",
+      "author": "Emily Rivers",
+      "author_image": "https://i.ibb.co/2kT1fNP/8a4dc393-6725-4141-91b8-e68252d64235.jpg",
+      "posted_date": "March 15, 2024",
+      "reading_time": 10,
+      "hashtags": ["#Mystery", "#Adventure", "#Fantasy"]
+    },
+    {
+      "id": 789012,
+      "cover_image": "https://i.ibb.co/kXNc0zp/OIG1-ksq-UIblmmie-PDc-D1-FYN6.jpg",
+      "title": "Echoes of the Lost Kingdom",
+      "author": "Michael Stone",
+      "author_image": "https://i.ibb.co/mN7kWhd/c238f2d9-35a7-466d-aba5-2979de9a4835.jpg",
+      "posted_date": "March 14, 2024",
+      "reading_time": 15,
+      "hashtags": ["#History", "#Archaeology", "#Mythology"]
+    },
+    {
+      "id": 345678,
+      "cover_image": "https://i.ibb.co/HGJ0g2W/OIG1-m-ZI6-TJzz-W24-Uo-UCA3b1-F.jpg",
+      "title": "Whispers in the Shadows",
+      "author": "Samantha Grey",
+      "author_image": "https://i.ibb.co/ZGZtrF6/edb458b1-5656-4d20-8614-284919fce490.jpg",
+      "posted_date": "March 13, 2024",
+      "reading_time": 12,
+      "hashtags": ["#Thriller", "#Suspense", "#Horror"]
+    },
+    {
+      "id": 901234,
+      "cover_image": "https://i.ibb.co/jLMDj81/OIG1-q3db8p-Py-XXpk8m-6-VZu8.jpg",
+      "title": "The Celestial Journey",
+      "author": "Alexander Sparks",
+      "author_image": "https://i.ibb.co/8PhPjjn/7775eb71-5aab-4c69-80a5-74e44b70e251.jpg",
+      "posted_date": "March 12, 2024",
+      "reading_time": 20,
+      "hashtags": ["#SciFi", "#Space", "#Adventure"]
+    },
+    {
+      "id": 567890,
+      "cover_image": "https://i.ibb.co/G3FNmB9/OIG1-8n-LNqhzrh-F-T0ai-KD4-N0.jpg",
+      "title": "Melodies of the Soul",
+      "author": "Isabella Cruz",
+      "author_image": "https://i.ibb.co/nMWfBVc/1836ed64-3ab5-424d-a31a-ceeed04743c3.jpg",
+      "posted_date": "March 11, 2024",
+      "reading_time": 8,
+      "hashtags": ["#Romance", "#Music", "#Love"]
+    }
+  ]
+
